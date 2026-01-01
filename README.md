@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Niyas  
 
-<!--
-**niyassby/niyassby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack developer (MERN)  
+💡 I enjoy building web apps, bots, and automation tools  
 
-Here are some ideas to get you started:
+### 🔧 Tech I use
+- JavaScript / TypeScript  
+- React, Node.js, Express  
+- MongoDB, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- 🛒 E-commerce app
+- 📩 Email automation
+- 🤖 Telegram bots
+
+### 📬 Contact
+- 📧 your@email.com
+- 🌐 Portfolio: your-site.com
+- 💬 Telegram: @yourname
