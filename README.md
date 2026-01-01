@@ -31,26 +31,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,fastapi,react,next,tailwind,mongodb,mysql,git,github,aws,linux,docker" />
 </p>
 
----
 
-## 💡 Featured Projects
-> Click to view
-
-### 🛒 E-Commerce App
-- MERN + authentication + payments  
-- Dashboard, orders, admin controls  
-
-
-
-### 🤖 Telegram Bot Suite
-- GrammyJS + webhooks 
-
-
-
-### 📊 Admin Dashboard
-- Charts, auth, API integrations  
-
----
 
 
 ## 📬 Contact
