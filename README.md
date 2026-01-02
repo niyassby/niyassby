@@ -1,9 +1,9 @@
 <!-- Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F72940&width=435&lines=Hi+there!+I'm+Niyas+%F0%9F%91%8B;Full+Stack+devloper;Learning+Every+Day)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
-</p>
+<!--<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
+</p>-->
 
 
 ## 🚀 About Me
