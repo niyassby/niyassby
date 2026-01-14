@@ -50,7 +50,7 @@
 ___
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=niyassby&style=for-the-badge" />
 </p>
 
 > ⭐ If you like my work, consider starring a repo!
